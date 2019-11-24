@@ -5,6 +5,7 @@ using namespace std;
 int main(){
 
 	cout << "this project is availible on github" << endl;
+	cout << "hello world" << endl;
 	Heap heap;
 
 	heap.insert(5);
